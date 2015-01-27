@@ -1,6 +1,6 @@
 
 <p align="right">
-    <a href="https://github.com/xuandac/cordova-plugin-background-mode/tree/example">EXAMPLE :point_right:</a>
+    <a href="https://github.com/xuandac/cordova-plugin-background/tree/example">EXAMPLE :point_right:</a>
 </p>
 
 Cordova Background Plug-in
@@ -40,7 +40,7 @@ The plugin can either be installed from git repository, from local file system t
 From master:
 ```bash
 # ~~ from master branch ~~
-cordova plugin add https://github.com/xuandac/cordova-plugin-background-mode.git
+cordova plugin add https://github.com/xuandac/cordova-plugin-background.git
 ```
 from a local folder:
 ```bash
